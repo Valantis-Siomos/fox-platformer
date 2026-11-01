@@ -69,6 +69,7 @@ next={
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 rendering_device/driver.windows="d3d12"
 renderer/rendering_method="mobile"
 environment/defaults/default_clear_color=Color(0.041196093, 0.0962644, 0.12204363, 1)
